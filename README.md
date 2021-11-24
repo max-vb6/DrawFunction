@@ -10,6 +10,8 @@ A program that can draw the graph of functions, completed in November 2011.
 
 老缝合怪了.
 
+![screenshot](screenshot.png)
+
 ## Copyright and License
 
 Copyright (C) 2010-2011 MaxXSoft (MaxXing). License GPLv3.
